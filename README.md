@@ -1,1 +1,3 @@
-# Ticket-App
+# Wanna attend an event today or maybe later? 
+# Grab your tickets now @...
+# Remilekun-Elijah.github.io/Ticket-App
